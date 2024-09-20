@@ -129,3 +129,6 @@ If something goes wrong (it happens), here are some tips:
 - Review your `odoo.conf` to ensure your database credentials are correct.
 
 Need more help? The Odoo community is super helpful, so don't hesitate to ask!
+
+---
+Have to name it as "README.md" because Github is not brushing up regularly :(
